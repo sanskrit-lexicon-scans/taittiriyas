@@ -26,6 +26,8 @@ VNNN is in range
 * 1014 to 1427 (volume 1, pdf pages 14 to 427)
 * 2008 to 2346 (volume 2, pdf pages 8 to 346
 
+https://sanskrit-lexicon-scans.github.io/taittiriyas/app1/?VNNN
+
 
 
 
